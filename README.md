@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2023 — the year I began exploring data science and applying mathematical principles to real-world problems.<br><br>📚 I'm currently learning: Advanced machine learning models, statistical data analysis, and time series forecasting.<br><br>🎯 Goals: To build a solid career in data science, leveraging analytical and technical skills to design data-driven solutions and support decision-making.<br><br>🎲 Fun fact: I believe that every dataset tells a story — it just needs the right analysis to be understood.</p>
+<p align="left">✨ Creating bugs since: 2024 — the year I began exploring data science and applying mathematical principles to real-world problems.<br><br>📚 I'm currently learning: Advanced machine learning models, statistical data analysis, and time series forecasting.<br><br>🎯 Goals: To build a solid career in data science, leveraging analytical and technical skills to design data-driven solutions and support decision-making.<br><br>🎲 Fun fact: I believe that every dataset tells a story — it just needs the right analysis to be understood.</p>
 
 ###
 
